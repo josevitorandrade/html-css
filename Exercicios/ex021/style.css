@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    
+}
+div{
+    display: inline-block;
+    background-color: lightcoral;
+    border: 1 px solid black;
+    text-align: center;
+    height: 30px;
+    width: 200px;
+
+
+}
+   

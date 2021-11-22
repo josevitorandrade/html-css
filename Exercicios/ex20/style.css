@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+    background-color:rgb(55, 123, 55);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+/*ID só pode ser usado 1 vez em um documento 
+já o class , pode ser usado multiplas vezes no mesmo documento
+para identificar uma ID NO STYLE.CSS , BASTA COLOCAR #E O NOME DO IDENTIFICADOR.
+para identificar uma CLASS NO STYLE.CSS , BASTA COLOCAR .É O NOME DA CLASS QUE DESEJA .*/
+h1{
+ color: rgb(255, 255, 255);
+ 
+}
+
+#principal{
+    background-color: rgb(105, 181, 0);
+    text-align: center;
+    color: white;
+
+}
+h2{
+    color: rgb(136, 64, 136);
+}
+.basico{
+   color: rgb(82, 53, 209) ;
+
+}
+.intermediario{
+color: red
+}
+.avançado{
+ color: yellow;
+}
